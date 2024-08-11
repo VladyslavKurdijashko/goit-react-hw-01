@@ -1,6 +1,6 @@
 
 import PropTypes from 'prop-types';
-import './TransactionHistory.css'; // Опційно, для стилізації
+import './TransactionHistory.css';
 
 const TransactionHistory = ({ items }) => {
   return (
