@@ -1,9 +1,9 @@
 import "./App.css";
-import Profile from "./сomponents/Task-1/Profile";
-import userData from "./сomponents/Task-1/userData.json";
-import FriendList from "./сomponents/Task-2/FriendList";
+import Profile from "./components/Task-1/Profile";
+import userData from "./components/Task-1/userData.json";
+import FriendList from "./components/Task-2/FriendList";
 import friends from "./friends.json";
-import TransactionHistory from "./сomponents/Task-3/TransactionHistory";
+import TransactionHistory from "./components/Task-3/TransactionHistory";
 import transactions from "./transactions.json";
 
 const App = () => {
